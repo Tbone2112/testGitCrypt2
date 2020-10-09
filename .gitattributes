@@ -1,2 +1,1 @@
-src/main/webapp/WEB-INF/jetty-env.xml filter=git-crypt diff=git-crypt
 src/resources/app.properties filter=git-crypt diff=git-crypt
